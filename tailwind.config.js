@@ -8,6 +8,7 @@ module.exports = {
         "selected-text": "#a3a3ff",
         theme: "#5c318c",
         secondary: "#9191a4",
+        badge: "#3f3f51",
       },
     },
     fontFamily: {
