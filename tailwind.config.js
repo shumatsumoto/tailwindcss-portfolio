@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       colors: {
         body: "#050505",
+        "selected-text": "#a3a3ff",
+        theme: "#5c318c",
       },
     },
     fontFamily: {
